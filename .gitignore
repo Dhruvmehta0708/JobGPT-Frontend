@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 vite-project/src/.env
 vite-project/src/.env
+src/.env
+src/.env.*
